@@ -161,4 +161,3 @@ for i in x.get_nextmail(1):
         x.server.noop()
     #for vital_f in vital:
         #print(vital_f)
-    #测验
